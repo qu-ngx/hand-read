@@ -60,7 +60,7 @@ for dir_ in os.listdir(DATA_DIR):
             data.append(data_aux)
             labels.append(dir_)
 
-# Open data.pickle and dumb some columns
+# Open data.pickle and add some columns using dump()
 f = open('data.pickle', 'wb')
 pickle.dump({'data': data, 'labels': labels}, f)  # Dumping some columns
 f.close()
