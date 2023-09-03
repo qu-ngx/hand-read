@@ -33,4 +33,4 @@ python3 inference.py
 <br>It should pop up a window like below and here comes the demonstration:</br>
 **Note:** The model still sometimes have low inaccuracy and some input overload so try again if it exits unfortunately (And it will do)
 
-<img src="https://github.com/qu-ngx/Hand-Gesture-Reader/assets/91497379/627dd714-4fc1-4d38-85ba-df9e963a7ae3" width="1000" height="700"/>
+<img src="https://github.com/qu-ngx/Hand-Gesture-Reader/assets/91497379/627dd714-4fc1-4d38-85ba-df9e963a7ae3" width="9000" height="700"/>
