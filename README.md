@@ -24,7 +24,7 @@ pip3 install open-cv tensorflow mediapipe numpy
 
 + Since I have trained model and converted images into readable form in model.p. (You do not have to train it manually)
 
-**Head toward zsh, cmd, or cmd and run the code:**
+**Head toward zsh, cmd, or command prompt, terminal and run the code:**
 
 ```
 python3 inference.py
