@@ -9,7 +9,7 @@ if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
 # Change the classes when you need to have more gestures
-number_of_classes = 3
+number_of_classes = 24 # Change when you need to have more inputs
 dataset_size = 100  # 100 images per folder
 
 cam = cv2.VideoCapture(1)  # Change the number depending on os
